@@ -1,0 +1,85 @@
+{
+  "library": "Mike77154 Recorder",
+  "format": "opus-48k",
+  "fileCount": 13,
+  "files": [
+    {
+      "file": "MikeRecorder_072.opus",
+      "name": "MikeRecorder_072",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-m7715/main/MikeRecorder_072.opus",
+      "size": 6970
+    },
+    {
+      "file": "MikeRecorder_074.opus",
+      "name": "MikeRecorder_074",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-m7715/main/MikeRecorder_074.opus",
+      "size": 6680
+    },
+    {
+      "file": "MikeRecorder_076.opus",
+      "name": "MikeRecorder_076",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-m7715/main/MikeRecorder_076.opus",
+      "size": 6626
+    },
+    {
+      "file": "MikeRecorder_078.opus",
+      "name": "MikeRecorder_078",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-m7715/main/MikeRecorder_078.opus",
+      "size": 5843
+    },
+    {
+      "file": "MikeRecorder_079.opus",
+      "name": "MikeRecorder_079",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-m7715/main/MikeRecorder_079.opus",
+      "size": 4531
+    },
+    {
+      "file": "MikeRecorder_083.opus",
+      "name": "MikeRecorder_083",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-m7715/main/MikeRecorder_083.opus",
+      "size": 4801
+    },
+    {
+      "file": "MikeRecorder_084.opus",
+      "name": "MikeRecorder_084",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-m7715/main/MikeRecorder_084.opus",
+      "size": 6336
+    },
+    {
+      "file": "MikeRecorder_086.opus",
+      "name": "MikeRecorder_086",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-m7715/main/MikeRecorder_086.opus",
+      "size": 5978
+    },
+    {
+      "file": "MikeRecorder_088.opus",
+      "name": "MikeRecorder_088",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-m7715/main/MikeRecorder_088.opus",
+      "size": 5260
+    },
+    {
+      "file": "MikeRecorder_090.opus",
+      "name": "MikeRecorder_090",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-m7715/main/MikeRecorder_090.opus",
+      "size": 5526
+    },
+    {
+      "file": "MikeRecorder_091.opus",
+      "name": "MikeRecorder_091",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-m7715/main/MikeRecorder_091.opus",
+      "size": 5733
+    },
+    {
+      "file": "MikeRecorder_093.opus",
+      "name": "MikeRecorder_093",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-m7715/main/MikeRecorder_093.opus",
+      "size": 7602
+    },
+    {
+      "file": "MikeRecorder_096.opus",
+      "name": "MikeRecorder_096",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-m7715/main/MikeRecorder_096.opus",
+      "size": 10873
+    }
+  ]
+}
